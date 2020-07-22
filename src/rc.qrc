@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>media/icons/add.png</file>
+        <file>media/icons/new.png</file>
+        <file>media/icons/open.png</file>
+        <file>media/icons/db_info.png</file>
+        <file>media/icons/exit.png</file>
+    </qresource>
+    <qresource prefix="/volumes">
+        <file>media/icons/volumes/audio_cd.png</file>
+        <file>media/icons/volumes/bdrom.png</file>
+        <file>media/icons/volumes/cd.png</file>
+        <file>media/icons/volumes/crypted.png</file>
+        <file>media/icons/volumes/dvd.png</file>
+        <file>media/icons/volumes/flash.png</file>
+        <file>media/icons/volumes/floppy.png</file>
+        <file>media/icons/volumes/folder.png</file>
+        <file>media/icons/volumes/hdd.png</file>
+        <file>media/icons/volumes/hdd_usb.png</file>
+        <file>media/icons/volumes/net.png</file>
+        <file>media/icons/volumes/other.png</file>
+        <file>media/icons/volumes/sd.png</file>
+        <file>media/icons/volumes/tape.png</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>media/icons/files/file.png</file>
+        <file>media/icons/files/folder.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>media/fonts/fontawesome.ttf</file>
+    </qresource>
+</RCC>
